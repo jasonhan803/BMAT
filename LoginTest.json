@@ -23,6 +23,10 @@
         {
             "id": "japan", 
             "pass": "japan"
+        }, 
+        {
+            "id": "webit", 
+            "pass": "1234"
         }
     ]
 }
